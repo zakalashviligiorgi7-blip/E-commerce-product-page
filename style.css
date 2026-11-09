@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    
+    
+}
+
+
+.dedadivi{
+    display: flex;
+    gap: 50px;
+    padding: 40px;
+}
+
+
+.divi-1{
+    margin-top: 20px;
+}
+
+
+.divi-2{
+  display: flex;
+  gap: 10px;
+  margin-top: 25px;
+}
+
+.divi-3{
+    margin-left: 1100px;
+    display: flex;
+    margin-top: 20px;
+    gap: 30px;
+}
+
+
+.divi-3 .img-1{
+    width: 20px;
+    height: 20px;
+    margin-top: 18px;
+}
+
+.divi-3 .img-2{
+    width: 50px;
+    height: 50px;
+}
+
+
+.container{
+    width: 300px;
+    height: 100%;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.container img{
+    width: 320px;
+    height: 350px;
+    border-radius: 8px;
+}
+
+
+
+.mamadivi{
+    display: flex;
+    gap: 85px;
+}
+
+
+.just{
+    width: 300px;
+    height: 100%;
+    /* border: 1px solid black; */
+    margin-top: 90px;
+    padding: 10px;
+}
+
+.just .paragraph-1{
+    color: gray;
+    font-size: 12px;
+}
+
+.just h2{
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+
+.just .paragraph-2{
+    color: hsl(219, 9%, 45%);
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+
+.di{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.di h4{
+    margin-top: 3px;
+    background-color: hsl(220, 13%, 13%);
+    color: #fff;
+    border-radius: 5px;
+    font-size:15px;
+    padding: 2px;
+}
+
+
+.just .paragraph-3{
+    font-size: 14px;
+    color:  hsl(219, 9%, 45%);
+    margin-bottom: 50px;
+}
+
+.dii{
+    display: flex;
+    gap: 20px;
+    
+}
+
+button{
+    width: 150px;
+    height: 35px;
+    border-radius: 8px;
+    border: none;
+    background-color:  hsl(26, 100%, 55%);
+}
+
+.dii .paragraph-4{
+    margin-top: 5px;
+}
+
+
+.info img{
+    width: 70px;
+    height: 70px;
+    border-radius: 8px;
+   
+}
+
+.info{
+    margin-left: 105px;
+    display: flex;
+    gap: 10px;
+}
